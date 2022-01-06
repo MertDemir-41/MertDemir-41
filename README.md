@@ -1,7 +1,7 @@
 ### Hi there, I'm Mert DEMİR
 
-## I'm an Android Developer.
-- 🔭 I’m currently learning **Kotlin,Android and Ktor**
+## I'm an Android Developer/Java Developer.
+- 🔭 I’m currently learning **Kotlin,Android and Spring**
 - 🌱 I’m currently developing **Kotlin,Android**
 - 📫 Contact me **mertdemir1998@outlook.com**
 
